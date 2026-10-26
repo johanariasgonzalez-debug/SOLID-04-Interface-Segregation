@@ -1,0 +1,1 @@
+# SOLID-04-Interface-Segregation
